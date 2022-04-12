@@ -15,7 +15,7 @@ The data used in this project is provided by [The World Bank](https://www.worldb
 ## Topics
 - Using aggregate functions such as `SUM()`, `AVG()`, `MAX()`, `COUNT()`, `ROUND()` 
 - Filter techniques such as `WHERE`, `GROUP BY` and `DISTINCT`
-- Sorting using `ORDER BY`, 'DESC'
+- Sorting using `ORDER BY`, `DESC`
 - Joining two tables using Subqueries
 ## Outline
 1. The World Bank's international debt data
