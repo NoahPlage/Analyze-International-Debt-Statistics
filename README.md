@@ -13,10 +13,10 @@ The data used in this project is provided by [The World Bank](https://www.worldb
 ## Technology
 - SQL
 ## Topics
-- Using aggregate functions such as `MAX()`, `MIN()`, `COUNT()`
-- Filter techniques such as `WHERE`, `GROUP BY` and `HAVING`
-- Sorting using `ORDER BY`
-- Joining two tables using `INNER JOIN` and `LEFT JOIN`
+- Using aggregate functions such as `SUM()`, `AVG()`, `MAX()`, `COUNT()`, `ROUND()` 
+- Filter techniques such as `WHERE`, `GROUP BY` and `DISTINCT`
+- Sorting using `ORDER BY`, 'DESC'
+- Joining two tables using Subqueries
 ## Outline
 1. The World Bank's international debt data
 2. Finding the number of distinct countries
